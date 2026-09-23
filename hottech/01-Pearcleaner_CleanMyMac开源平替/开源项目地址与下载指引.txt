@@ -7,8 +7,8 @@
 【核心优势】: 0后台常驻 · 原生Swift打造 · 深度粉碎残留 · 完全开源免费
 
 【官方开源项目主页】
-👉 GitHub 仓库主页: https://github.com
-👉 最新版安装包下载: 前往 GitHub 仓库右侧 Releases 页面，直接下载对应系统安装包 (.dmg / .zip / .exe)
+👉 GitHub 官方主页: https://github.com/alienator88/Pearcleaner
+👉 最新安装包下载: 可前往 GitHub 仓库右侧 Releases (https://github.com/alienator88/Pearcleaner/releases) 直接下载对应系统安装包 (.dmg / .zip)
 
 【Mac 终端一行命令极速安装 (如有 Homebrew)】
 brew install --cask pearcleaner

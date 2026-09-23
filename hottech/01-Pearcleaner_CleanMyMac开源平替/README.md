@@ -1,6 +1,7 @@
 # 第 01 期 · Pearcleaner_CleanMyMac开源平替
 
-> **核心价值**：省下 ¥248/年 (Pearcleaner 替代 CleanMyMac X)
+> **官方开源仓库**：[alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)  
+> **核心价值**：省下 ¥248/年 (Pearcleaner 替代 CleanMyMac X)  
 > **获取口令**：关注作者并在评论区/私信回复【**神器**】或【**666**】即可获取本期永久更新！
 
 ---
@@ -12,8 +13,12 @@
 ---
 
 ## 🚀 极速上手指引
-1. 打开当前目录下的 `开源项目地址与下载指引.txt` 查看官方项目主页与最新 Releases 安装包。
-2. 支持 macOS / Windows 常用包管理器一键安装（如 Brew）。
-3. 纯本地运行，0 广告无内购，全面保障数据隐私！
+1. **GitHub 官方项目主页**：https://github.com/alienator88/Pearcleaner
+2. **最新 Releases 安装包**：https://github.com/alienator88/Pearcleaner/releases
+3. **Mac 终端一行命令极速安装 (如有 Homebrew)**：
+   ```bash
+   brew install --cask pearcleaner
+   ```
+4. 纯本地原生 Swift 打造，0 广告 0 后台常驻，全面保障系统纯净与数据隐私！
 
 ⭐ 欢迎在 GitHub 右上角点亮 **Star**，支持每日持续更新！
