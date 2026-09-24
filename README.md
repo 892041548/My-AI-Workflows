@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-2-brightgreen.svg)]()
-[![HotTech Count](https://img.shields.io/badge/HotTech-1-blue.svg)]()
+[![HotTech Count](https://img.shields.io/badge/HotTech-2-blue.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
 > **打造属于每一个打工人与独立开发者的效率武器库！**  
@@ -36,6 +36,7 @@
 | 期数 | 工具主题 | 亮点特色 | 项目指引 |
 | :---: | :--- | :--- | :---: |
 | **01** | [Pearcleaner CleanMyMac开源平替](./hottech/01-Pearcleaner_CleanMyMac%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 开源平替神器 · 0后台常驻 · 纯净体验 | [📖 查看指引](./hottech/01-Pearcleaner_CleanMyMac%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
+| **02** | [Raycast Alfred 5 Powerpack开源平替](./hottech/02-Raycast_Alfred_5_Powerpack%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 开源平替神器 · 0后台常驻 · 纯净体验 | [📖 查看指引](./hottech/02-Raycast_Alfred_5_Powerpack%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
 
 
 ---
