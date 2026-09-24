@@ -3,12 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-4-brightgreen.svg)]()
 [![HotTech Count](https://img.shields.io/badge/HotTech-2-blue.svg)]()
+[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-1-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
 > **打造属于每一个打工人与独立开发者的效率武器库！**  
 > 本仓库由 **【AI 自动化实验室】** 每日持续更新：
 > 1. **AI 实战工作流**：经过生产拓扑验证的 **n8n / Dify / Coze / FastGPT** 高价值配置文件。
 > 2. **硬核开源平替**：拒绝高昂订阅制付费，深度评测好用纯净的开源软硬件工具。
+> 3. **GitHub 热门精选**：每日甄选全球 Star 增速最快的前沿开源项目与使用指南。
 
 ---
 
@@ -39,6 +41,15 @@
 | :---: | :--- | :--- | :---: |
 | **01** | [Pearcleaner CleanMyMac开源平替](./hottech/01-Pearcleaner_CleanMyMac%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 开源平替神器 · 0后台常驻 · 纯净体验 | [📖 查看指引](./hottech/01-Pearcleaner_CleanMyMac%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
 | **02** | [Raycast Alfred 5 Powerpack开源平替](./hottech/02-Raycast_Alfred_5_Powerpack%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 开源平替神器 · 0后台常驻 · 纯净体验 | [📖 查看指引](./hottech/02-Raycast_Alfred_5_Powerpack%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
+
+
+---
+
+## ⭐ 每日热门 GitHub 神作精选 (GitHub Trending)
+
+| 期数 | 开源项目 | 项目亮点 | 详情指引 |
+| :---: | :--- | :--- | :---: |
+| **01** | [jev-chat-jarvis GitHub爆款开源推荐](./github/01-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | 热门高星开源神作 · 极简上手指引 | [📖 查看指引](./github/01-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 
 
 ---
