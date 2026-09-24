@@ -1,7 +1,7 @@
 # ⚡ My-AI-Workflows | 高价值企业级 AI 自动化工作流与开源神器精选合集
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Workflows Count](https://img.shields.io/badge/Workflows-2-brightgreen.svg)]()
+[![Workflows Count](https://img.shields.io/badge/Workflows-3-brightgreen.svg)]()
 [![HotTech Count](https://img.shields.io/badge/HotTech-2-blue.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
@@ -27,6 +27,7 @@
 | :---: | :--- | :--- | :---: |
 | **01** | [AI 多智能体全渠道工单分发系统](./workflows/01-AI_%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A8%E6%B8%A0%E9%81%93%E5%B7%A5%E5%8D%95%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F) | 本工作流基于【全渠道多源监听】➔【情绪与优先级研判】➔【知识库召回与拟答】➔【IM 派单与... | [📥 查看配置](./workflows/01-AI_%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A8%E6%B8%A0%E9%81%93%E5%B7%A5%E5%8D%95%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F/workflow_config.json) |
 | **02** | [AI自动化多平台图文自适应分发工作流](./workflows/02-AI%E8%87%AA%E5%8A%A8%E5%8C%96%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E8%87%AA%E9%80%82%E5%BA%94%E5%88%86%E5%8F%91%E5%B7%A5%E4%BD%9C%E6%B5%81) | 本工作流基于【智能触发器】➔【AI 思考大脑】➔【工具链执行】➔【全自动闭环】闭环拓扑构建... | [📥 查看配置](./workflows/02-AI%E8%87%AA%E5%8A%A8%E5%8C%96%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E8%87%AA%E9%80%82%E5%BA%94%E5%88%86%E5%8F%91%E5%B7%A5%E4%BD%9C%E6%B5%81/workflow_config.json) |
+| **03** | [【Dify实战教程】别再只拿DeepSeek纯聊天了！手把手教你零代码搭建私有知识库Agent](./workflows/03-%E3%80%90Dify%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B%E3%80%91%E5%88%AB%E5%86%8D%E5%8F%AA%E6%8B%BFDeepSeek%E7%BA%AF%E8%81%8A%E5%A4%A9%E4%BA%86%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E9%9B%B6%E4%BB%A3%E7%A0%81%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E7%9F%A5%E8%AF%86%E5%BA%93Agent) | 本教程与配置文件专为【Dify】设计，基于【步骤1: 用户提问触发】➔【步骤3: Deep... | [📥 查看配置](./workflows/03-%E3%80%90Dify%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B%E3%80%91%E5%88%AB%E5%86%8D%E5%8F%AA%E6%8B%BFDeepSeek%E7%BA%AF%E8%81%8A%E5%A4%A9%E4%BA%86%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E9%9B%B6%E4%BB%A3%E7%A0%81%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E7%9F%A5%E8%AF%86%E5%BA%93Agent/workflow_config.json) |
 
 
 ---
