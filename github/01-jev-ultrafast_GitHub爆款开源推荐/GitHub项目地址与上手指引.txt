@@ -1,0 +1,15 @@
+=======================================================
+⭐【开源项目精选资料】browser-use/jev-ultrafast
+=======================================================
+
+【项目简介】: 极速、极低成本的 Web 自动化智能体引擎 (Fastest and cheapest web agent)
+【开源地址】: https://github.com/browser-use/jev-ultrafast
+【主要语言】: Python
+【Star 数】: 17518
+
+【快速开始】
+1. 访问 GitHub 官方仓库：https://github.com/browser-use/jev-ultrafast
+2. 克隆仓库: git clone https://github.com/browser-use/jev-ultrafast.git
+3. 查看项目 README 快速上手体验！
+
+快去 GitHub 给作者点亮 Star 吧！⭐

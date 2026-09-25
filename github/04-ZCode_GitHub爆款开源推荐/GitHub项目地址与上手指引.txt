@@ -2,7 +2,7 @@
 ⭐【开源项目精选资料】zai-org/ZCode
 =======================================================
 
-【项目简介】: Z.ai's coding agent harness. Powerful, intelligent, extensible.
+【项目简介】: 新一代自主代码智能体框架 (Z.ai coding agent harness. Powerful, intelligent, extensible.)
 【开源地址】: https://github.com/zai-org/ZCode
 【主要语言】: TypeScript
 【Star 数】: 6751
