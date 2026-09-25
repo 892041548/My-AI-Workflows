@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-4-brightgreen.svg)]()
 [![HotTech Count](https://img.shields.io/badge/HotTech-2-blue.svg)]()
-[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-4-orange.svg)]()
+[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-5-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
 > **打造属于每一个打工人与独立开发者的效率武器库！**  
@@ -53,6 +53,7 @@
 | **02** | [jev-chat-jarvis GitHub爆款开源推荐](./github/02-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | 热门高星开源神作 · 极简上手指引 | [📖 查看指引](./github/02-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **03** | [jev-chat-jarvis GitHub爆款开源推荐](./github/03-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | 热门高星开源神作 · 极简上手指引 | [📖 查看指引](./github/03-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **04** | [jev-chat-jarvis GitHub爆款开源推荐](./github/04-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | 热门高星开源神作 · 极简上手指引 | [📖 查看指引](./github/04-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
+| **05** | [ZCode GitHub爆款开源推荐](./github/05-ZCode_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | 热门高星开源神作 · 极简上手指引 | [📖 查看指引](./github/05-ZCode_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 
 
 ---
