@@ -1,0 +1,15 @@
+=======================================================
+⭐【开源项目精选资料】jev-chat/jev-chat-jarvis
+=======================================================
+
+【项目简介】: 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+【开源地址】: https://github.com/jev-chat/jev-chat-jarvis
+【主要语言】: Kotlin
+【Star 数】: 6129
+
+【快速开始】
+1. 访问 GitHub 官方仓库：https://github.com/jev-chat/jev-chat-jarvis
+2. 克隆仓库: git clone https://github.com/jev-chat/jev-chat-jarvis.git
+3. 查看项目 README 快速上手体验！
+
+快去 GitHub 给作者点亮 Star 吧！⭐
