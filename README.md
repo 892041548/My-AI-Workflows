@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-6-brightgreen.svg)]()
 [![HotTech Count](https://img.shields.io/badge/HotTech-2-blue.svg)]()
-[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-4-orange.svg)]()
+[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-5-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
 > **打造属于每一个打工人与独立开发者的效率武器库！**  
@@ -55,6 +55,7 @@
 | **02** | [laya GitHub爆款开源推荐](./github/02-laya_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 16,899 · Python · 现代化全能 AI 自动化与 Agent 构建框架 | [📖 查看指引](./github/02-laya_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **03** | [jev-chat-jarvis GitHub爆款开源推荐](./github/03-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 6,129 · Kotlin · 装在手机上的对话副驾：在微信 / QQ / 飞书里读懂对方、给... | [📖 查看指引](./github/03-jev-chat-jarvis_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **04** | [ZCode GitHub爆款开源推荐](./github/04-ZCode_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 6,751 · TypeScript · 新一代自主代码智能体框架 (Z.ai coding a... | [📖 查看指引](./github/04-ZCode_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
+| **05** | [paperclip GitHub爆款开源推荐](./github/05-paperclip_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 85,960 · TypeScript · The open-source app everyo... | [📖 查看指引](./github/05-paperclip_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 
 
 ---
