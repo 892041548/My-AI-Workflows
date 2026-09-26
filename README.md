@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-6-brightgreen.svg)]()
-[![HotTech Count](https://img.shields.io/badge/HotTech-2-blue.svg)]()
+[![HotTech Count](https://img.shields.io/badge/HotTech-3-blue.svg)]()
 [![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-5-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
@@ -43,6 +43,7 @@
 | :---: | :--- | :--- | :---: |
 | **01** | [Pearcleaner CleanMyMac开源平替](./hottech/01-Pearcleaner_CleanMyMac%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 省下 ¥248/年 (Pearcleaner 替代 CleanMyMac X) | [📖 查看指引](./hottech/01-Pearcleaner_CleanMyMac%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
 | **02** | [Raycast Alfred 5 Powerpack开源平替](./hottech/02-Raycast_Alfred_5_Powerpack%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 省下 ¥340 一次性授权 (Raycast 替代 Alfred 5 Powerpack) | [📖 查看指引](./hottech/02-Raycast_Alfred_5_Powerpack%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
+| **03** | [Meta Muse Cognition Devin (AI云端工程师)开源平替](./hottech/03-Meta_Muse_Cognition_Devin_(AI%E4%BA%91%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88)%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF) | 省下 $500/月 (约¥43,000/年) (Meta Muse (云端AI Agent主机)... | [📖 查看指引](./hottech/03-Meta_Muse_Cognition_Devin_(AI%E4%BA%91%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88)%E5%BC%80%E6%BA%90%E5%B9%B3%E6%9B%BF/README.md) |
 
 
 ---
