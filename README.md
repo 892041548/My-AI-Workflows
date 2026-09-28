@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-4-brightgreen.svg)]()
 [![HotTech Count](https://img.shields.io/badge/HotTech-3-blue.svg)]()
-[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-6-orange.svg)]()
+[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-7-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
 > **打造属于每一个打工人与独立开发者的效率武器库！**  
@@ -27,10 +27,11 @@
 
 | 期数 | 工作流主题 | 核心亮点与场景 | 配置文件直链 |
 | :---: | :--- | :--- | :---: |
-| **01** | [AI 多智能体全渠道工单分发系统](./workflows/01-AI_%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A8%E6%B8%A0%E9%81%93%E5%B7%A5%E5%8D%95%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F) | ⚡ 响应时效缩短 99% · 3秒全链路闭环 · 24小时无人值守全渠道自动派单与闭环处理 | [📥 查看配置](./workflows/01-AI_%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A8%E6%B8%A0%E9%81%93%E5%B7%A5%E5%8D%95%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F/workflow_config.json) |
-| **02** | [【Dify实战】别再把DeepSeek当玩具了！手把手带你搭建专属私有知识库Agent](./workflows/02-%E3%80%90Dify%E5%AE%9E%E6%88%98%E3%80%91%E5%88%AB%E5%86%8D%E6%8A%8ADeepSeek%E5%BD%93%E7%8E%A9%E5%85%B7%E4%BA%86%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%B8%93%E5%B1%9E%E7%A7%81%E6%9C%89%E7%9F%A5%E8%AF%86%E5%BA%93Agent) | ⚡ 5分钟零代码搭建 · 精准召回率提升 90% · 文档向量化与跨平台发布 | [📥 查看配置](./workflows/02-%E3%80%90Dify%E5%AE%9E%E6%88%98%E3%80%91%E5%88%AB%E5%86%8D%E6%8A%8ADeepSeek%E5%BD%93%E7%8E%A9%E5%85%B7%E4%BA%86%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%B8%93%E5%B1%9E%E7%A7%81%E6%9C%89%E7%9F%A5%E8%AF%86%E5%BA%93Agent/workflow_config.json) |
-| **03** | [【n8n实战】彻底告别人肉盯盘！5分钟搭建全网热点监控与AI总结自动化流](./workflows/03-%E3%80%90n8n%E5%AE%9E%E6%88%98%E3%80%91%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E4%BA%BA%E8%82%89%E7%9B%AF%E7%9B%98%EF%BC%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E5%85%A8%E7%BD%91%E7%83%AD%E7%82%B9%E7%9B%91%E6%8E%A7%E4%B8%8EAI%E6%80%BB%E7%BB%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%81) | ⚡ 告别手动刷新复制 · 全网爆款情报早8点准时直达手机 · 定时抓取与AI萃取 | [📥 查看配置](./workflows/03-%E3%80%90n8n%E5%AE%9E%E6%88%98%E3%80%91%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E4%BA%BA%E8%82%89%E7%9B%AF%E7%9B%98%EF%BC%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E5%85%A8%E7%BD%91%E7%83%AD%E7%82%B9%E7%9B%91%E6%8E%A7%E4%B8%8EAI%E6%80%BB%E7%BB%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%81/workflow_config.json) |
-| **04** | [【扣子Coze实战】零代码5分钟搭建飞书微信自动客服Agent！](./workflows/04-%E3%80%90%E6%89%A3%E5%AD%90Coze%E5%AE%9E%E6%88%98%E3%80%91%E9%9B%B6%E4%BB%A3%E7%A0%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%A3%9E%E4%B9%A6%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%AE%A2%E6%9C%8DAgent) | ⚡ 5分钟零代码搭建 · 效率提升 10 倍 · 渠道消息监听与知识库秒级交付 | [📥 查看配置](./workflows/04-%E3%80%90%E6%89%A3%E5%AD%90Coze%E5%AE%9E%E6%88%98%E3%80%91%E9%9B%B6%E4%BB%A3%E7%A0%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%A3%9E%E4%B9%A6%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%AE%A2%E6%9C%8DAgent/workflow_config.json) |
+| **01** | [AI 多智能体全渠道工单分发系统](./workflows/01-AI_%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A8%E6%B8%A0%E9%81%93%E5%B7%A5%E5%8D%95%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F) | ⚡ 响应时效缩短 99% · 3秒全链路闭环 · 本工作流基于【全渠道多源监听】➔【情绪与优先级... | [📥 查看配置](./workflows/01-AI_%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A8%E6%B8%A0%E9%81%93%E5%B7%A5%E5%8D%95%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F/workflow_config.json) |
+| **02** | [【Dify实战】别再把DeepSeek当玩具了！手把手带你搭建专属私有知识库Agent](./workflows/02-%E3%80%90Dify%E5%AE%9E%E6%88%98%E3%80%91%E5%88%AB%E5%86%8D%E6%8A%8ADeepSeek%E5%BD%93%E7%8E%A9%E5%85%B7%E4%BA%86%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%B8%93%E5%B1%9E%E7%A7%81%E6%9C%89%E7%9F%A5%E8%AF%86%E5%BA%93Agent) | ⚡ 5分钟零代码搭建 · 精准召回率提升 90% · 本教程与配置文件专为【Dify】设计，基于... | [📥 查看配置](./workflows/02-%E3%80%90Dify%E5%AE%9E%E6%88%98%E3%80%91%E5%88%AB%E5%86%8D%E6%8A%8ADeepSeek%E5%BD%93%E7%8E%A9%E5%85%B7%E4%BA%86%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%B8%93%E5%B1%9E%E7%A7%81%E6%9C%89%E7%9F%A5%E8%AF%86%E5%BA%93Agent/workflow_config.json) |
+| **03** | [【n8n实战】彻底告别人肉盯盘！5分钟搭建全网热点监控与AI总结自动化流](./workflows/03-%E3%80%90n8n%E5%AE%9E%E6%88%98%E3%80%91%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E4%BA%BA%E8%82%89%E7%9B%AF%E7%9B%98%EF%BC%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E5%85%A8%E7%BD%91%E7%83%AD%E7%82%B9%E7%9B%91%E6%8E%A7%E4%B8%8EAI%E6%80%BB%E7%BB%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%81) | ⚡ 告别手动刷新复制 · 全网爆款情报早8点准时直达手机 · 本教程与配置文件专为【n8n】设计... | [📥 查看配置](./workflows/03-%E3%80%90n8n%E5%AE%9E%E6%88%98%E3%80%91%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E4%BA%BA%E8%82%89%E7%9B%AF%E7%9B%98%EF%BC%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E5%85%A8%E7%BD%91%E7%83%AD%E7%82%B9%E7%9B%91%E6%8E%A7%E4%B8%8EAI%E6%80%BB%E7%BB%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%81/workflow_config.json) |
+| **04** | [【扣子Coze实战】零代码5分钟搭建飞书/微信自动客服Agent！](./workflows/04-%E3%80%90%E6%89%A3%E5%AD%90Coze%E5%AE%9E%E6%88%98%E3%80%91%E9%9B%B6%E4%BB%A3%E7%A0%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%A3%9E%E4%B9%A6%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%AE%A2%E6%9C%8DAgent) | ⚡ 5分钟零代码搭建 · 效率提升 10 倍 · 本教程与配置文件专为【扣子 (Coze)】设计... | [📥 查看配置](./workflows/04-%E3%80%90%E6%89%A3%E5%AD%90Coze%E5%AE%9E%E6%88%98%E3%80%91%E9%9B%B6%E4%BB%A3%E7%A0%815%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%A3%9E%E4%B9%A6%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%AE%A2%E6%9C%8DAgent/workflow_config.json) |
+
 
 ---
 
@@ -55,6 +56,7 @@
 | **04** | [ZCode GitHub爆款开源推荐](./github/04-ZCode_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 6,751 · TypeScript · 新一代自主代码智能体框架 (Z.ai coding a... | [📖 查看指引](./github/04-ZCode_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **05** | [paperclip GitHub爆款开源推荐](./github/05-paperclip_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 85,960 · TypeScript · The open-source app everyo... | [📖 查看指引](./github/05-paperclip_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **06** | [univer GitHub爆款开源推荐](./github/06-univer_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 19,838 · TypeScript · The Office Harness for AI ... | [📖 查看指引](./github/06-univer_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
+| **07** | [VoiceStudio GitHub爆款开源推荐](./github/07-VoiceStudio_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 41,884 · Python · VoiceStudio is the open-source... | [📖 查看指引](./github/07-VoiceStudio_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 
 
 ---
