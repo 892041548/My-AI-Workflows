@@ -1,13 +1,14 @@
 {
   "workflow_schema_version": "2.4.0",
-  "name": "AI自动化多平台图文自适应分发工作流",
-  "id": "wf-ai-mn4ocrh",
+  "target_tool": "扣子 (Coze)",
+  "name": "【扣子Coze实战】零代码5分钟搭建飞书/微信自动客服Agent！",
+  "id": "wf-ai-t3l9mt7",
   "version": "1.2.0",
-  "category": "Enterprise AI Automation & Efficiency",
-  "description": "本工作流基于【智能触发器】➔【AI 思考大脑】➔【工具链执行】➔【全自动闭环】闭环拓扑构建。解决人工重复搬运、流程割裂低效等痛点，实现 ⚡ 节省 85% 人工工时 · 全程无人值守。",
+  "category": "AI Agent & Automation Tutorial",
+  "description": "本教程与配置文件专为【扣子 (Coze)】设计，基于【渠道消息监听】➔【扣子智能中枢】➔【知识库与插件检索】➔【多端秒级交付】构建。解决人工操作痛点，实现 ⚡ 5分钟零代码搭建 · 效率提升 10 倍。",
   "author": "Star4Wish_ZZY",
   "license": "MIT",
-  "exportedAt": "2026-09-24T07:23:37.904Z",
+  "exportedAt": "2026-09-28T03:51:45.498Z",
   "engine_compatibility": [
     "n8n (v1.30.0+)",
     "Dify (v0.6.0+)",
@@ -66,7 +67,7 @@
   "nodes": [
     {
       "id": "node_trigger_01",
-      "name": "智能触发器",
+      "name": "渠道消息监听",
       "type": "n8n-nodes-base.webhook",
       "position": [
         180,
@@ -111,7 +112,7 @@
     },
     {
       "id": "node_agent_02",
-      "name": "AI 思考大脑",
+      "name": "扣子智能中枢",
       "type": "dify.llm_agent",
       "position": [
         480,
@@ -123,7 +124,7 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "max_tokens": 4096,
-        "system_prompt": "你是一名资深的自动化业务专家与智能决策中枢。\n你的核心职责是：针对传入的【AI自动化多平台图文自适应分发工作流】业务数据进行深度语义解析、意图分流与标准化加工。\n【执行原则】\n1. 仔细分析 payload 中的核心诉求与关键参数，提取有效实体；\n2. 依据 SOP 决策标准对任务进行优先级评级（P0/P1/P2）；\n3. 结构化输出下游工具链所需的完整 JSON 数据，严禁臆造虚假字段；\n4. 返回格式必须为标准合法 JSON 结构。",
+        "system_prompt": "你是一名资深的自动化业务专家与智能决策中枢。\n你的核心职责是：针对传入的【【扣子Coze实战】零代码5分钟搭建飞书/微信自动客服Agent！】业务数据进行深度语义解析、意图分流与标准化加工。\n【执行原则】\n1. 仔细分析 payload 中的核心诉求与关键参数，提取有效实体；\n2. 依据 SOP 决策标准对任务进行优先级评级（P0/P1/P2）；\n3. 结构化输出下游工具链所需的完整 JSON 数据，严禁臆造虚假字段；\n4. 返回格式必须为标准合法 JSON 结构。",
         "response_format": {
           "type": "json_object"
         },
@@ -170,7 +171,7 @@
     },
     {
       "id": "node_tool_03",
-      "name": "工具链执行",
+      "name": "知识库与插件检索",
       "type": "n8n-nodes-base.httpRequest",
       "position": [
         780,
@@ -208,7 +209,7 @@
     },
     {
       "id": "node_output_04",
-      "name": "全自动闭环",
+      "name": "多端秒级交付",
       "type": "custom.multi_channel_dispatcher",
       "position": [
         1080,
@@ -269,9 +270,9 @@
     "mock_input_payload": {
       "event_type": "WORKFLOW_INGEST",
       "source_system": "Feishu_Bitable",
-      "timestamp": "2026-09-24T07:23:37.905Z",
+      "timestamp": "2026-09-28T03:51:45.499Z",
       "payload": {
-        "title": "测试任务 - AI自动化多平台图文自适应分发工作流",
+        "title": "测试任务 - 【扣子Coze实战】零代码5分钟搭建飞书/微信自动客服Agent！",
         "priority": "HIGH",
         "raw_text": "请快速处理该条自动化任务，调用AI中枢进行分发与交付闭环。"
       }
@@ -281,7 +282,7 @@
       "code": 200,
       "trace_id": "sample-trace-9823412",
       "message": "全流程已毫秒级自动化闭环交付",
-      "time_saved": "⚡ 节省 85% 人工工时 · 全程无人值守"
+      "time_saved": "⚡ 5分钟零代码搭建 · 效率提升 10 倍"
     }
   },
   "deployment_guide": {
