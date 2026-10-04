@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Workflows Count](https://img.shields.io/badge/Workflows-4-brightgreen.svg)]()
 [![HotTech Count](https://img.shields.io/badge/HotTech-3-blue.svg)]()
-[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-9-orange.svg)]()
+[![GitHub Trending Count](https://img.shields.io/badge/GitHub_Trending-10-orange.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)]()
 
 > **打造属于每一个打工人与独立开发者的效率武器库！**  
@@ -59,6 +59,7 @@
 | **07** | [VoiceStudio GitHub爆款开源推荐](./github/07-VoiceStudio_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 41,884 · Python · VoiceStudio is the open-source... | [📖 查看指引](./github/07-VoiceStudio_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **08** | [Madeira GitHub爆款开源推荐](./github/08-Madeira_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 1,158 · C · Run x86-64 Windows PC games on jaile... | [📖 查看指引](./github/08-Madeira_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 | **09** | [agent-skills GitHub爆款开源推荐](./github/09-agent-skills_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 100,657 · JavaScript · Production-grade engineer... | [📖 查看指引](./github/09-agent-skills_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
+| **10** | [sentry GitHub爆款开源推荐](./github/10-sentry_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90) | ★ 45,264 · Python · Developer-first error tracking... | [📖 查看指引](./github/10-sentry_GitHub%E7%88%86%E6%AC%BE%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90/README.md) |
 
 
 ---
