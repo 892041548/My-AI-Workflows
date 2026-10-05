@@ -1,0 +1,15 @@
+=======================================================
+⭐【开源项目精选资料】Stremio/stremio-web
+=======================================================
+
+【项目简介】: Stremio - Freedom to Stream
+【开源地址】: https://github.com/Stremio/stremio-web
+【主要语言】: JavaScript
+【Star 数】: 14137
+
+【快速开始】
+1. 访问 GitHub 官方仓库：https://github.com/Stremio/stremio-web
+2. 克隆仓库: git clone https://github.com/Stremio/stremio-web.git
+3. 查看项目 README 快速上手体验！
+
+快去 GitHub 给作者点亮 Star 吧！⭐
