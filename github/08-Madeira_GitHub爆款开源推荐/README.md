@@ -1,18 +1,31 @@
-# 第 08 期 · Madeira_GitHub爆款开源推荐
+# 第 08 期 · Madeira - 免越狱 iPhone 跑 Windows PC 游戏
 
-> **项目定位**：1158 Stars · C 热门开源
-> **获取口令**：关注作者并在评论区/私信回复【**666**】或【**666**】即可获取本期永久更新！
-
----
-
-## 📁 本期文件清单
-1. `GitHub项目地址与上手指引.txt`：详细的开源项目说明、官方 GitHub 地址与上手指引。
-2. `【开源项目精选包】Madeira.zip`：完整打包好的开源项目资料包。
+> **项目定位**：1,100+ Stars · C / Metal · iOS 免越狱 x86 转译架构
+> **官方开源地址**：https://github.com/willfaust/Madeira
+> **官方 Releases**：https://github.com/willfaust/Madeira/releases
 
 ---
 
-## 🚀 极速上手指引
-1. 打开当前目录下的 `GitHub项目地址与上手指引.txt` 查看官方项目主页与克隆指引。
-2. 欢迎前往 GitHub 官方主页为原作者点亮 Star 支持！
+## 🚀 小白保姆级上手实操 3 步走
 
-⭐ 欢迎在 GitHub 右上角点亮 **Star**，支持每日持续更新！
+### 1️⃣ 获取官方 IPA 安装包
+- 前往官方 Releases 页面（https://github.com/willfaust/Madeira/releases），下载最新构建好的 `.ipa` 文件。
+
+### 2️⃣ 侧载签名安装到 iPhone
+- 使用电脑端 **爱思助手**、**Sideloadly**（https://sideloadly.io）或 **AltStore**。
+- 数据线连接 iPhone，将 `Madeira.ipa` 拖入，输入个人 Apple ID 即可一键签名安装。
+- 安装后在手机【设置 ➔ 通用 ➔ VPN与设备管理】中信任开发者证书。
+
+### 3️⃣ 开启 JIT 权限并畅玩
+- 打开 Madeira App，按提示开启 JIT 调试权限（通过 StikDebug、SideStore 或电脑端 Sideloadly 右键点 "Enable JIT"）。
+- 在 App 的 Settings 中确认 JIT 与 Memory+ 显示绿勾（状态为 Ready to play）。
+- 登录 Steam 账号或导入 Windows 游戏，连接蓝牙手柄即可随时畅玩！
+
+---
+
+## 📋 硬件与系统前置要求
+- **机型建议**：iPhone 13 Pro 及以上、iPad Pro / Air（M 系列芯片体验最佳，高帧率更稳）。
+- **系统版本**：iOS 16 或更高版本。
+- **证书续签**：个人免费 Apple ID 签名 7 天有效，到期后重新连电脑签名即可，游戏存档均保留在设备内。
+
+⭐ 欢迎前往 GitHub 为原作者点亮 **Star**，支持开源生态！
