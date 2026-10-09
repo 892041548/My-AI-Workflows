@@ -1,15 +1,32 @@
-=======================================================
-⭐【开源项目精选资料】morluto/rea
-=======================================================
+================================================================================
+⭐【开源项目精选指南】morluto/rea (Reverse Engineer Anything)
+================================================================================
 
-【项目简介】: Reverse engineer anything with agents, from app behavior down to native binaries.
-【开源地址】: https://github.com/morluto/rea
-【主要语言】: TypeScript
-【Star 数】: 6940
+【项目简介】：Reverse engineer anything with agents, from app behavior down to native binaries.
+【官方项目主页】：https://rea.tools/
+【GitHub官方主页】：https://github.com/morluto/rea
+【npm官方模块】：https://www.npmjs.com/package/rea-agents
+【项目语言】：TypeScript
+【当前 Star 数】：6.9k+ Stars
 
-【快速开始】
-1. 访问 GitHub 官方仓库：https://github.com/morluto/rea
-2. 克隆仓库: git clone https://github.com/morluto/rea.git
-3. 查看项目 README 快速上手体验！
+--------------------------------------------------------------------------------
+💡 为什么很多人搜索“找不到”？（重要避坑指引）
+--------------------------------------------------------------------------------
+1. 在 GitHub 搜索框不要只搜 "rea"（三个字母项目过多），必须搜索项目全称："morluto/rea"。
+2. 手机端复制容易带入中文括号或前后多余文字，粘贴到浏览器前请检查链接是否为纯链接：
+   https://github.com/morluto/rea
+3. 若国内移动网络访问 GitHub 出现加载超时或白屏，请直接访问其官方产品网站：
+   https://rea.tools/
 
-快去 GitHub 给作者点亮 Star 吧！⭐
+--------------------------------------------------------------------------------
+🚀 极速上手 3 步走
+--------------------------------------------------------------------------------
+1️⃣ 确保本地安装 Node.js 22.19+ 版本（运行 node -v 检查）；
+2️⃣ 终端执行一键安装配置向导：
+    npx rea-agents setup
+    （按提示选择你的 Coding Agent，如 Cursor / Claude Code，自动注册 MCP）；
+3️⃣ 重启你的 Agent，输入自然语言即可让 AI 逆向分析应用并复刻对应逻辑！
+
+⭐ 觉得本指南实用？欢迎前往我们的长期同步总库点亮 Star 关注：
+https://github.com/892041548/My-AI-Workflows
+每日持续为你同步全球最新前沿开源实战！

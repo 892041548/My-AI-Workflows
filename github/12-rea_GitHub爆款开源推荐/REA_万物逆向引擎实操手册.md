@@ -1,6 +1,6 @@
 # 🔍 REA (Reverse Engineer Anything) · 万物逆向引擎实操指南
 
-> **原项目开源地址**：https://github.com/morluto/rea  
+> **官方开源仓库**：https://github.com/morluto/rea  
 > **官方产品主页**：https://rea.tools/  
 > **npm 官方模块**：https://www.npmjs.com/package/rea-agents  
 > **本指南开源维护**：[My-AI-Workflows](https://github.com/892041548/My-AI-Workflows)  
@@ -14,16 +14,6 @@
 1. **GitHub 搜索关键词过短**：`rea` 只有三个字母，在 GitHub 搜索框直接输入 `rea` 会跳出数十万个无关项目。**正确搜索方式是输入完整的作者和项目名：`morluto/rea`**。
 2. **手机复制带入了多余符号**：在抖音或小红书长按复制时，容易把前后的中文符号（如 `【开源地址】`）一起复制进浏览器搜索栏，导致搜索报错。
 3. **国内直连网络波动**：国内移动网络访问 GitHub 经常出现 DNS 污染或加载超时，直接访问可能白屏打不开。此时可直接访问官方中文站点：**https://rea.tools/**。
-
----
-
-## 📁 本期精选资源清单
-1. `REA_万物逆向引擎实操手册.md`：详细图文实操指南与避坑指南。
-2. `GitHub项目地址与上手指引.txt`：纯文本版极简上手说明与直链备忘。
-3. `01-REA官方网站直达(rea.tools).url`：官方产品网站快捷方式。
-4. `02-GitHub官方源码仓库(morluto_rea).url`：官方 GitHub 仓库快捷方式。
-5. `03-npm官方模块页面(rea-agents).url`：npm 包主页快捷方式。
-6. `【开源项目精选包】rea.zip`：离线实战资料与一键初始化脚本打包。
 
 ---
 
